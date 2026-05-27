@@ -1,0 +1,6 @@
+{
+  "name": "Evaluacion Docente Pro",
+  "description": "Plataforma profesional de evaluacion docente conectada directamente con Google Sheets mediante Apps Script, optima para hosting estatico en GitHub Pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
